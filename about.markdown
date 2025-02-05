@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<img src="/assets/images/portrait.jpg" width="250">
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm Andy. I live in Austin, Texas and I'm a mathematician, cyclist, cat dad, and wannabe AI researcher. This site is primarily for posting my thoughts and progress in my capacity as the final of those roles.
 
+# Cycling
+I've done several long distance bikepacking trips. I did [RAGBRAI](https://ragbrai.com/) in 2021 and 2022. Before that, I did a 10 week, cross country ride in 2018.
+![Thanks to Alex for making this graphic](/assets/images/XC_trip.jpg)
 
-[jekyll-organization]: https://github.com/jekyll
+# Math
+I finished a doctorate in mathematics from the University of Michigan in 2024. My advisor was [Charlotte Chan](https://websites.umich.edu/~charchan/). My thesis was in the intersection of algebraic geometry, number theory, and representation theory. My old academic website is [here](https://public.websites.umich.edu/~ndygordn/index.html).
+
