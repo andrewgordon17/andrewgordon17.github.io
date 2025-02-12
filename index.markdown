@@ -7,3 +7,4 @@ title: Main
 ---
 # Hello, I'm Andy 👋
 Welcome to my website! Here, I write about topics I'm interested in.
+[My CV](assets/AGordonResume.pdf)
