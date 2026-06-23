@@ -7,7 +7,7 @@ permalink: /about/
 
 <img src="/assets/images/portrait.jpg" width="250">
 
-I'm Andy. I live in Austin, Texas and I'm a mathematician, cyclist, cat dad, and wannabe AI researcher. This site is primarily for posting my thoughts and progress in my capacity as the final of those roles.
+I'm Andy. I live in Austin, Texas and I'm a mathematician, cyclist, cat dad, and AI researcher. This site collects links to my research; see the [home page](/) for my work.
 
 # Cycling
 I've done several long distance bikepacking trips. I did [RAGBRAI](https://ragbrai.com/) in 2021 and 2022. Before that, I did a 10 week, cross country ride in 2018.
