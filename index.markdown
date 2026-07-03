@@ -4,7 +4,7 @@ title: Home
 ---
 # Hello, I'm Andy 👋
 
-I'm a mathematician and AI researcher at [Timaeus](https://timaeus.co), working on
+I'm a mathematician and AI researcher at [Resolution](https://resolution.org) (formerly Timaeus), working on
 interpretability and the science of deep learning. [My CV](assets/AGordonResume.pdf).
 
 ## Research
